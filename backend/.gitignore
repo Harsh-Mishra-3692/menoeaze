@@ -1,0 +1,13 @@
+node_modules/
+.env
+*.log
+.DS_Store
+models/*.pkl
+models/*.pt
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+dist/
+build/
+

@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.env*.local
+*.log
+.DS_Store
+*.pem
+ml_service/models/*.pkl
+ml_service/models/*.pt
+ml_service/__pycache__/
+*.pyc
+__pycache__/
+.pytest_cache/
+.coverage
+dist/
+build/
+
